@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi v20s9690 👋
+
+### Contact
+- Git: https://www.github.com/v20s9690
+- Email: v20s9690@gmail.com
+- Blog: 
 
 <!--
 **v20s9690/v20s9690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
